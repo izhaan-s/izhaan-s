@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Izhaan 👋</h1>
 
 <p align="center">
-  🚀 Computing & Mathematics @ UoM
+  🚀 CS & Maths @ UoM
 </p>
 
 ---
@@ -26,11 +26,6 @@
 - 🥇 **1st Place @ Nethermind**, **Gensyn UI**, **Neuphonic AI**
 - 🎖️ **6 awards** total across EncodeAI and StudentHack
 
----
 
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/izhaan-salam/)  
 
 
