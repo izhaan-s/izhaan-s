@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Izhaan 👋</h1>
+Hi there, I'm Izhaan 👋
 
 <p align="center">
   🚀 CS & Maths @ UoM
