@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🎓 First-year at **University of Manchester** studying CS & Maths
-- 📱 Currently developing a [**Flutter-based Eczema Tracker App**](https://github.com/izhaan-s/eczema-health) with FastAPI + Supabase
+- 📱 Currently developing a [**Flutter-based Eczema Tracker App**](https://eczema.framer.website/) with FastAPI + Supabase
 
 ---
 
