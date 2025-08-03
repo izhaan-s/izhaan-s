@@ -10,6 +10,7 @@
 
 - 🎓 First-year at **University of Manchester** studying CS & Maths
 - 📱 Currently developing a [**Flutter-based Eczema Tracker App**](https://eczema.framer.website/) with FastAPI + Supabase
+- 🧠 Current developing [**Nuropilot**](https://nuropilot.com/), an AI copilot for neurologists
 
 ---
 
